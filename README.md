@@ -21,7 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehrinpp&show_icons=true&locale=en" alt="mehrinpp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehrinpp&" alt="mehrinpp" /></p>
 
 
 
